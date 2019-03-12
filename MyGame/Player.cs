@@ -24,7 +24,7 @@ namespace MyGame
         {
             Console.WriteLine($"I am player {playerNum} on team {teamNum} and I am rolling");
 
-            return numGenerator.Next(1, 1);
+            return numGenerator.Next(1, 21);
         }
     }
 }

@@ -10,3 +10,9 @@ C:\Users\blya1_18\Documents\Visual Studio 2015\Projects\MyGame\COMP1347-Assignme
 C:\Users\blya1_18\Documents\Visual Studio 2015\Projects\MyGame\COMP1347-Assignment03\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
 C:\Users\blya1_18\Documents\Visual Studio 2015\Projects\MyGame\COMP1347-Assignment03\MyGame\obj\Debug\MyGame.exe
 C:\Users\blya1_18\Documents\Visual Studio 2015\Projects\MyGame\COMP1347-Assignment03\MyGame\obj\Debug\MyGame.pdb
+D:\Users\Nye Blythe\Documents\GitHub\COMP1347-Assignment03\MyGame\bin\Debug\MyGame.exe.config
+D:\Users\Nye Blythe\Documents\GitHub\COMP1347-Assignment03\MyGame\bin\Debug\MyGame.exe
+D:\Users\Nye Blythe\Documents\GitHub\COMP1347-Assignment03\MyGame\bin\Debug\MyGame.pdb
+D:\Users\Nye Blythe\Documents\GitHub\COMP1347-Assignment03\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+D:\Users\Nye Blythe\Documents\GitHub\COMP1347-Assignment03\MyGame\obj\Debug\MyGame.exe
+D:\Users\Nye Blythe\Documents\GitHub\COMP1347-Assignment03\MyGame\obj\Debug\MyGame.pdb
