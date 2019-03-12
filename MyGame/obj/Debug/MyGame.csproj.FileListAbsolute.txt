@@ -1,0 +1,12 @@
+c:\users\blya1_18\documents\visual studio 2015\Projects\MyGame\MyGame\bin\Debug\MyGame.exe.config
+c:\users\blya1_18\documents\visual studio 2015\Projects\MyGame\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+c:\users\blya1_18\documents\visual studio 2015\Projects\MyGame\MyGame\bin\Debug\MyGame.exe
+c:\users\blya1_18\documents\visual studio 2015\Projects\MyGame\MyGame\bin\Debug\MyGame.pdb
+c:\users\blya1_18\documents\visual studio 2015\Projects\MyGame\MyGame\obj\Debug\MyGame.exe
+c:\users\blya1_18\documents\visual studio 2015\Projects\MyGame\MyGame\obj\Debug\MyGame.pdb
+C:\Users\blya1_18\Documents\Visual Studio 2015\Projects\MyGame\COMP1347-Assignment03\MyGame\bin\Debug\MyGame.exe.config
+C:\Users\blya1_18\Documents\Visual Studio 2015\Projects\MyGame\COMP1347-Assignment03\MyGame\bin\Debug\MyGame.exe
+C:\Users\blya1_18\Documents\Visual Studio 2015\Projects\MyGame\COMP1347-Assignment03\MyGame\bin\Debug\MyGame.pdb
+C:\Users\blya1_18\Documents\Visual Studio 2015\Projects\MyGame\COMP1347-Assignment03\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+C:\Users\blya1_18\Documents\Visual Studio 2015\Projects\MyGame\COMP1347-Assignment03\MyGame\obj\Debug\MyGame.exe
+C:\Users\blya1_18\Documents\Visual Studio 2015\Projects\MyGame\COMP1347-Assignment03\MyGame\obj\Debug\MyGame.pdb
